@@ -142,7 +142,7 @@ main h1 {
 }
 
 .medium-font h2 {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 500;
 }
 
@@ -176,7 +176,6 @@ main h1 {
 
 .thumb {
     display: flex;
-    height: ;
     gap: 10px;
     margin: 16px 0px;
 }
