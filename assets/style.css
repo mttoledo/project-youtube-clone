@@ -292,3 +292,12 @@ main h1 {
         margin: 0 auto;
     }
 }
+
+@media (min-width: 1400px) {
+
+    .left-screen {
+        flex: 1 1 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+}
